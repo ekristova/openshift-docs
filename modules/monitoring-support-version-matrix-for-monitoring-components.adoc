@@ -1,0 +1,25 @@
+// Module included in the following assemblies:
+//
+// * observability/monitoring/configuring-the-monitoring-stack.adoc
+
+:_mod-docs-content-type: REFERENCE
+[id="support-version-matrix-for-monitoring-components_{context}"]
+= Support version matrix for monitoring components
+
+The following matrix contains information about versions of monitoring components for each {product-title} 4.12+ release:
+
+|===
+|*{product-title}* 11+|*Component Versions*
+
+|*Version* |*Prometheus Operator* |*Prometheus*  |*Prometheus Adapter* |*Metrics Server* (Technology Preview) |*Alertmanager* |*kube-state-metrics agent* |*monitoring-plugin* |*openshift-state-metrics agent* |*node-exporter agent* |*Thanos* |*Telemeter Client*
+
+|4.16 |0.73.2 |2.51.2 |0.11.2 |0.7.1 |0.26.0 |2.12.0 |1.0.0 |TBD |1.8.0 |0.35.0 |TBD 
+
+|4.15 |0.70.0 |2.48.0 |0.11.2 |0.6.4 |0.26.0 |2.10.1 |1.0.0 |TBD |1.7.0 |0.32.5 | TBD 
+
+|4.14 |0.67.1 |2.46.0 |0.10.0 |0.6.4 |0.25.0 |2.9.2 |1.0.0 |TBD |1.6.1 |0.30.2 | TBD 
+
+|4.13 |0.63.0 |2.42.0 |0.10.0 |N/A |0.25.0 |2.8.1 |N/A |TBD |1.5.0 |0.30.2 | TBD 
+
+|4.12 |0.60.1 |2.39.1 |0.10.0 |N/A |0.24.0 |2.6.0 |N/A |TBD |1.4.0 |0.28.1 | TBD 
+|===
