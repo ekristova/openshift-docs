@@ -37,6 +37,11 @@ include::modules/monitoring-enabling-monitoring-for-user-defined-projects.adoc[l
 // Enabling alert routing for user-defined projects
 include::modules/monitoring-enabling-alert-routing-for-user-defined-projects.adoc[leveloffset=+1]
 
+[role="_additional-resources"]
+.Additional resources
+
+* xref:../../../observability/monitoring/about-ocp-monitoring/key-concepts#understanding-alert-routing-for-user-defined-projects_key-concepts[Understanding alert routing for user-defined projects]
+
 // Enabling the platform Alertmanager instance for user-defined alert routing
 ifndef::openshift-dedicated,openshift-rosa[]
 include::modules/monitoring-enabling-the-platform-alertmanager-instance-for-user-defined-alert-routing.adoc[leveloffset=+2]

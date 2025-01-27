@@ -43,6 +43,11 @@ Review the following limitations of alert routing for user-defined projects:
 * When a namespace is excluded from user-defined monitoring, `AlertmanagerConfig` resources in the namespace cease to be part of the Alertmanager configuration.
 ====
 
+[role="_additional-resources"]
+.Additional resources
+
+* xref:../../../observability/monitoring/about-ocp-monitoring/key-concepts#sending-notifications-to-external-systems_key-concepts[Sending notifications to external systems]
+
 include::modules/monitoring-configuring-alert-routing-for-user-defined-projects.adoc[leveloffset=+2]
 
 // [role="_additional-resources"]

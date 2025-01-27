@@ -93,5 +93,18 @@ include::modules/monitoring-searching-alerts-silences-and-alerting-rules.adoc[le
 // Overview of setting up alert routing for user-defined projects
 include::modules/monitoring-understanding-alert-routing-for-user-defined-projects.adoc[leveloffset=+1]
 
+[role="_additional-resources"]
+.Additional resources
+
+* xref:../../../observability/monitoring/preparing-to-configure-the-monitoring-stack/preparing-to-configure-the-monitoring-stack-uwm.adoc#enabling-alert-routing-for-user-defined-projects_preparing-to-configure-the-monitoring-stack-uwm[Enabling alert routing for user-defined projects]
+
+// Sending notifications to external systems
+include::modules/monitoring-sending-notifications-to-external-systems.adoc[leveloffset=+1]
+
+[role="_additional-resources"]
+.Additional resources
+
+* xref:../../../observability/monitoring/configuring-core-platform-monitoring/configuring-alerts-and-notifications#configuring-alert-notifications_configuring-alerts-and-notifications[Configuring alert notifications for core platform monitoring]
+* xref:../../../observability/monitoring/configuring-user-workload-monitoring/configuring-alerts-and-notifications-uwm#configuring-alert-notifications_configuring-alerts-and-notifications-uwm[Configuring alert notifications for user workload monitoring]
 
 

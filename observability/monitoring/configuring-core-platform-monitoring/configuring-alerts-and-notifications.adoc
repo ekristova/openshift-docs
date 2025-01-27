@@ -42,6 +42,11 @@ In {product-title} {product-version}, you can view firing alerts in the Alerting
 Alertmanager does not send notifications by default. It is strongly recommended to configure Alertmanager to receive notifications by configuring alert receivers through the web console or through the `alertmanager-main` secret.
 ====
 
+[role="_additional-resources"]
+.Additional resources
+
+* xref:../../../observability/monitoring/about-ocp-monitoring/key-concepts#sending-notifications-to-external-systems_key-concepts[Sending notifications to external systems]
+
 include::modules/monitoring-configuring-alert-routing-default-platform-alerts.adoc[leveloffset=+2]
 
 include::modules/monitoring-configuring-alert-routing-console.adoc[leveloffset=+2]
