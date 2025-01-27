@@ -1,12 +1,12 @@
 :_mod-docs-content-type: ASSEMBLY
 include::_attributes/common-attributes.adoc[]
-[id="before-you-begin-uwm"]
-= Before you begin
-:context: before-you-begin-uwm
+[id="preparing-to-configure-the-monitoring-stack-uwm"]
+= Preparing to configure the user workload monitoring stack
+:context: preparing-to-configure-the-monitoring-stack-uwm
 
 toc::[]
 
-This section explains which user-defined monitoring components can be configured, how to enable monitoring for user-defined projects, and how to prepare for configuring the user-defined monitoring stack.
+This section explains which user-defined monitoring components can be configured, how to enable user workload monitoring, and how to prepare for configuring the user workload monitoring stack.
 
 [IMPORTANT]
 ====

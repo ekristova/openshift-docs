@@ -1,7 +1,7 @@
 :_mod-docs-content-type: ASSEMBLY
 include::_attributes/common-attributes.adoc[]
 [id="storing-and-recording-data-uwm"]
-= Storing and recording data
+= Storing and recording data for user workload monitoring
 :context: storing-and-recording-data-uwm
 
 toc::[]

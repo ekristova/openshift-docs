@@ -1,7 +1,7 @@
 :_mod-docs-content-type: ASSEMBLY
 include::_attributes/common-attributes.adoc[]
 [id="storing-and-recording-data"]
-= Storing and recording data
+= Storing and recording data for core platform monitoring
 :context: storing-and-recording-data
 
 toc::[]
